@@ -1,0 +1,13 @@
+title: 'ChatGPT充值教程 2026：Plus充值四步、到账确认和失败处理'
+description: 'ChatGPT充值教程（2026-10）：卡密充 Plus 四步、到账确认、充值页报错对照表；国内可在瑶瑶ai训练师商城 ¥129 开通（店主自营）'
+lang: zh-CN
+theme: jekyll-theme-cayman
+exclude:
+  - LICENSE
+
+# 正本是 GitHub 仓库页，网页版的 canonical 指回 github.com 地址（jekyll-seo-tag 读 canonical_url）
+defaults:
+  - scope:
+      path: ""
+    values:
+      canonical_url: "https://github.com/yaoyao-chat/chongzhi"
